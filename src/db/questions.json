@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1,
+        "description": "In which year of First World War Germany declared war on Russia and France?",
+        "options": [
+            {
+                "option": 1914
+            },
+            {
+                "option": 1915
+            },
+            {
+                "option": 1916
+            }
+        ],
+        "answer": 1914
+    },
+    {
+        "id": 2,
+        "description": "ICAO stands for",
+        "options": [
+            {
+                "option": "International Civil Aviation Organization"
+            },
+            {
+                "option": "Indian Corporation of Agriculture Organization"
+            },
+            {
+                "option": "Institute of Company of Accounts Organization"
+            }
+        ],
+        "answer": "International Civil Aviation Organization"
+    },
+    {
+        "id": 3,
+        "description": "India has largest deposits of ____ in the world",
+        "options": [
+            {
+                "option": "gold"
+            },
+            {
+                "option": "copper"
+            },
+            {
+                "option": "mica"
+            }
+        ],
+        "answer": "mica"
+    },
+    {
+        "id": 4,
+        "description": "What was East Germany's capital?",
+        "options": [
+            {
+                "option": "Berlin"
+            },
+            {
+                "option": "Wuppertal"
+            },
+            {
+                "option": "Hamburg"
+            }
+        ],
+        "answer": "Berlin"
+    },
+    {
+        "id": 5,
+        "description": "What was West Germany's capital?",
+        "options": [
+            {
+                "option": "Munich"
+            },
+            {
+                "option": "Bonn"
+            },
+            {
+                "option": "Bremen"
+            }
+        ],
+        "answer": "Bonn"
+    },
+    {
+        "id": 6,
+        "description": "Current capital of Germany",
+        "options": [
+            {
+                "option": "Stuttgart"
+            },
+            {
+                "option": "Bonn"
+            },
+            {
+                "option": "Berlin"
+            }
+        ],
+        "answer": "Berlin"
+    },
+    {
+        "id": 7,
+        "description": "What is a famous Formula One driver?",
+        "options": [
+            {
+                "option": "Lewis Hamilton"
+            },
+            {
+                "option": "Fernando Alonso"
+            },
+            {
+                "option": "Michael Schumacher"
+            }
+        ],
+        "answer": "Michael Schumacher"
+    },
+    {
+        "id": 8,
+        "description": "He was one of the smartest one?",
+        "options": [
+            {
+                "option": "Leonardo di Vinci"
+            },
+            {
+                "option": "Albert Einstein"
+            },
+            {
+                "option": "Adolf Hitler"
+            }
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "id": 9,
+        "description": "He was a good tennis player he won two Wimbledon titles?",
+        "options": [
+            {
+                "option": "Roger Federer"
+            },
+            {
+                "option": "Boris Becker"
+            },
+            {
+                "option": "Bojn Berg"
+            }
+        ],
+        "answer": "Boris Becker"
+    },
+    {
+        "id": 10,
+        "description": "What year was the FIFA World Cup held in Germany?",
+        "options": [
+            {
+                "option": "2006"
+            },
+            {
+                "option": "2002"
+            },
+            {
+                "option": "2010"
+            }
+        ],
+        "answer": "2006"
+    },
+    {
+        "id": 11,
+        "description": "What popular sport do they play in Germany?",
+        "options": [
+            {
+                "option": "Tennis"
+            },
+            {
+                "option": "Cricket"
+            },
+            {
+                "option": "Hand ball"
+            }
+        ],
+        "answer": "Hand ball"
+    },
+    {
+        "id": 11,
+        "description": "What age do kids start primary school?",
+        "options": [
+            {
+                "option": "5"
+            },
+            {
+                "option": "6"
+            },
+            {
+                "option": "4"
+            }
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 12,
+        "description": "How does Wuppertal people get around?",
+        "options": [
+            {
+                "option": "Boats"
+            },
+            {
+                "option": "Hanging-train"
+            },
+            {
+                "option": "Plane"
+            }
+        ],
+        "answer": "Hanging-train"
+    },
+    {
+        "id": 13,
+        "description": "What kind of natural recourse do they use in Dortmund?",
+        "options": [
+            {
+                "option": "Water"
+            },
+            {
+                "option": "Copper"
+            },
+            {
+                "option": "Coal"
+            }
+        ],
+        "answer": "Coal"
+    },
+    {
+        "id": 14,
+        "description": "What German team that beat Manchester United in Champions League semi final?",
+        "options": [
+            {
+                "option": "VFB Stuttgart"
+            },
+            {
+                "option": "Bermen Wermem"
+            },
+            {
+                "option": "Bayern Munich"
+            }
+        ],
+        "answer": "Bayern Munich"
+    },
+    {
+        "id": 15,
+        "description": "How does the German flag go?",
+        "options": [
+            {
+                "option": "Black Gold Red"
+            },
+            {
+                "option": "Black Red Gold"
+            },
+            {
+                "option": "Gold Red Black"
+            }
+        ],
+        "answer": "Black Red Gold"
+    },
+    {
+        "id": 16,
+        "description": "How does the German flag go?",
+        "options": [
+            {
+                "option": "Black Gold Red"
+            },
+            {
+                "option": "Black Red Gold"
+            },
+            {
+                "option": "Gold Red Black"
+            }
+        ],
+        "answer": "Black Red Gold"
+    }
+]
